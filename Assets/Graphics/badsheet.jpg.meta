@@ -1,0 +1,1019 @@
+fileFormatVersion: 2
+guid: ff5403cf984d4614f889f7c33ff8b773
+timeCreated: 1457283078
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: badsheet_0
+    21300002: badsheet_1
+    21300004: badsheet_2
+    21300006: badsheet_3
+    21300008: badsheet_4
+    21300010: badsheet_5
+    21300012: badsheet_6
+    21300014: badsheet_7
+    21300016: badsheet_8
+    21300018: badsheet_9
+    21300020: badsheet_10
+    21300022: badsheet_11
+    21300024: badsheet_12
+    21300026: badsheet_13
+    21300028: badsheet_14
+    21300030: badsheet_15
+    21300032: badsheet_16
+    21300034: badsheet_17
+    21300036: badsheet_18
+    21300038: badsheet_19
+    21300040: badsheet_20
+    21300042: badsheet_21
+    21300044: badsheet_22
+    21300046: badsheet_23
+    21300048: badsheet_24
+    21300050: badsheet_25
+    21300052: badsheet_26
+    21300054: badsheet_27
+    21300056: badsheet_28
+    21300058: badsheet_29
+    21300060: badsheet_30
+    21300062: badsheet_31
+    21300064: badsheet_32
+    21300066: badsheet_33
+    21300068: badsheet_34
+    21300070: badsheet_35
+    21300072: badsheet_36
+    21300074: badsheet_37
+    21300076: badsheet_38
+    21300078: badsheet_39
+    21300080: badsheet_40
+    21300082: badsheet_41
+    21300084: badsheet_42
+    21300086: badsheet_43
+    21300088: badsheet_44
+    21300090: badsheet_45
+    21300092: badsheet_46
+    21300094: badsheet_47
+    21300096: badsheet_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: badsheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 885
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 68.5}
+        - {x: -40.5, y: 56.5}
+        - {x: -40.5, y: -59.5}
+        - {x: -35.5, y: -68.5}
+        - {x: 37.5, y: -68.5}
+        - {x: 40.5, y: -48.5}
+        - {x: 40.5, y: 57.5}
+        - {x: 34.5, y: 68.5}
+    - name: badsheet_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 885
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 68.5}
+        - {x: -40.5, y: 64.5}
+        - {x: -40.5, y: -68.5}
+        - {x: 38.5, y: -68.5}
+        - {x: 40.5, y: -61.5}
+        - {x: 40.5, y: 68.5}
+    - name: badsheet_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 885
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 68.5}
+        - {x: -40.5, y: 47.5}
+        - {x: -40.5, y: -53.5}
+        - {x: -34.5, y: -68.5}
+        - {x: 37.5, y: -68.5}
+        - {x: 40.5, y: -44.5}
+        - {x: 40.5, y: 57.5}
+        - {x: 35.5, y: 68.5}
+    - name: badsheet_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 884
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 69}
+        - {x: -31.5, y: 69}
+        - {x: -40.5, y: 48}
+        - {x: -40.5, y: -53}
+        - {x: -35.5, y: -69}
+        - {x: 33.5, y: -69}
+        - {x: 39.5, y: -60}
+        - {x: 40.5, y: -38}
+        - {x: 40.5, y: 62}
+    - name: badsheet_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 884
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 69}
+        - {x: -40.5, y: 53}
+        - {x: -40.5, y: -50}
+        - {x: -37.5, y: -69}
+        - {x: 40.5, y: -69}
+        - {x: 40.5, y: 60}
+        - {x: 27.5, y: 69}
+    - name: badsheet_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 884
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 69}
+        - {x: -40.5, y: 56}
+        - {x: -40.5, y: -54}
+        - {x: -38.5, y: -69}
+        - {x: 40.5, y: -69}
+        - {x: 40.5, y: 69}
+    - name: badsheet_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 884
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 69}
+        - {x: -40.5, y: 65}
+        - {x: -40.5, y: -69}
+        - {x: 37.5, y: -69}
+        - {x: 40.5, y: -63}
+        - {x: 40.5, y: 57}
+        - {x: 29.5, y: 69}
+    - name: badsheet_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 884
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 69}
+        - {x: -30.5, y: 69}
+        - {x: -40.5, y: 45}
+        - {x: -40.5, y: -52}
+        - {x: -34.5, y: -69}
+        - {x: 33.5, y: -69}
+        - {x: 37.5, y: -60}
+        - {x: 40.5, y: -47}
+        - {x: 40.5, y: 56}
+    - name: badsheet_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 883
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 69.5}
+        - {x: -40.5, y: -69.5}
+        - {x: 39.5, y: -69.5}
+        - {x: 40.5, y: -61.5}
+        - {x: 40.5, y: 67.5}
+        - {x: 34.5, y: 69.5}
+    - name: badsheet_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 883
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 69.5}
+        - {x: -40.5, y: 50.5}
+        - {x: -40.5, y: -69.5}
+        - {x: 40.5, y: -69.5}
+        - {x: 40.5, y: 69.5}
+    - name: badsheet_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 883
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 69.5}
+        - {x: -40.5, y: 59.5}
+        - {x: -40.5, y: -60.5}
+        - {x: -36.5, y: -69.5}
+        - {x: 40.5, y: -69.5}
+        - {x: 40.5, y: 69.5}
+    - name: badsheet_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 883
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 69.5}
+        - {x: -40.5, y: 56.5}
+        - {x: -40.5, y: -69.5}
+        - {x: 40.5, y: -69.5}
+        - {x: 40.5, y: 68.5}
+        - {x: 36.5, y: 69.5}
+    - name: badsheet_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 742
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 69.5}
+        - {x: -40.5, y: 53.5}
+        - {x: -40.5, y: -53.5}
+        - {x: -34.5, y: -69.5}
+        - {x: 40.5, y: -69.5}
+        - {x: 40.5, y: 61.5}
+        - {x: 30.5, y: 69.5}
+    - name: badsheet_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 743
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 69}
+        - {x: -30.5, y: 69}
+        - {x: -40.5, y: 45}
+        - {x: -40.5, y: -52}
+        - {x: -34.5, y: -69}
+        - {x: 33.5, y: -69}
+        - {x: 37.5, y: -60}
+        - {x: 40.5, y: -47}
+        - {x: 40.5, y: 56}
+    - name: badsheet_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 743
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 69}
+        - {x: -40.5, y: -59}
+        - {x: -34.5, y: -69}
+        - {x: 35.5, y: -69}
+        - {x: 40.5, y: -64}
+        - {x: 40.5, y: 69}
+    - name: badsheet_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 743
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 69}
+        - {x: -40.5, y: 58}
+        - {x: -40.5, y: -65}
+        - {x: -39.5, y: -69}
+        - {x: 40.5, y: -69}
+        - {x: 40.5, y: 69}
+    - name: badsheet_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 743
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 69}
+        - {x: -40.5, y: 54}
+        - {x: -40.5, y: -62}
+        - {x: -36.5, y: -69}
+        - {x: 40.5, y: -69}
+        - {x: 40.5, y: 56}
+        - {x: 26.5, y: 69}
+    - name: badsheet_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 743
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 69}
+        - {x: -40.5, y: -69}
+        - {x: 37.5, y: -69}
+        - {x: 40.5, y: -53}
+        - {x: 40.5, y: 68}
+        - {x: 38.5, y: 69}
+    - name: badsheet_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 744
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 68.5}
+        - {x: -40.5, y: 54.5}
+        - {x: -40.5, y: -53.5}
+        - {x: -39.5, y: -59.5}
+        - {x: -35.5, y: -68.5}
+        - {x: 37.5, y: -68.5}
+        - {x: 40.5, y: -49.5}
+        - {x: 40.5, y: 57.5}
+        - {x: 34.5, y: 68.5}
+    - name: badsheet_19
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 744
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 68.5}
+        - {x: -40.5, y: -68.5}
+        - {x: 38.5, y: -68.5}
+        - {x: 40.5, y: -61.5}
+        - {x: 40.5, y: 68.5}
+    - name: badsheet_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 744
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 68.5}
+        - {x: -40.5, y: 48.5}
+        - {x: -40.5, y: -53.5}
+        - {x: -34.5, y: -68.5}
+        - {x: 37.5, y: -68.5}
+        - {x: 40.5, y: -46.5}
+        - {x: 40.5, y: 57.5}
+        - {x: 35.5, y: 68.5}
+    - name: badsheet_21
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 744
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 68.5}
+        - {x: -40.5, y: 63.5}
+        - {x: -40.5, y: -53.5}
+        - {x: -34.5, y: -68.5}
+        - {x: 37.5, y: -68.5}
+        - {x: 40.5, y: -48.5}
+        - {x: 40.5, y: 63.5}
+        - {x: 38.5, y: 68.5}
+    - name: badsheet_22
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 752
+        width: 119
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 64.5}
+        - {x: -59.5, y: 17.5}
+        - {x: -59.5, y: -53.5}
+        - {x: -56.5, y: -54.5}
+        - {x: -5.5, y: -64.5}
+        - {x: 44.5, y: -64.5}
+        - {x: 59.5, y: -52.5}
+        - {x: 59.5, y: 64.5}
+    - name: badsheet_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 610
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 6}
+        - {x: 44, y: 4}
+        - {x: 40, y: 4}
+        - {x: 36, y: -1}
+        - {x: 42, y: 6}
+        - {x: 46, y: 9}
+        - {x: 59, y: 33}
+        - {x: 59, y: 53}
+        - {x: 47, y: 65}
+        - {x: -13, y: 65}
+        - {x: -24, y: 58}
+        - {x: -57, y: 18}
+        - {x: -59, y: 15}
+        - {x: -59, y: -62}
+        - {x: -32, y: -65}
+        - {x: 36, y: -65}
+        - {x: 47, y: -53}
+        - {x: 59, y: -27}
+        - {x: 59, y: -2}
+    - name: badsheet_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 608
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 66}
+        - {x: -59, y: 24}
+        - {x: -59, y: -53}
+        - {x: -11, y: -66}
+        - {x: 44, y: -66}
+        - {x: 59, y: -62}
+        - {x: 59, y: 64}
+        - {x: 51, y: 66}
+    - name: badsheet_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 608
+        width: 113
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 66}
+        - {x: -51.5, y: 53}
+        - {x: -56.5, y: 19}
+        - {x: -56.5, y: -59}
+        - {x: -27.5, y: -66}
+        - {x: 49.5, y: -66}
+        - {x: 56.5, y: -55}
+        - {x: 56.5, y: 66}
+    - name: badsheet_26
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 606
+        width: 106
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 67}
+        - {x: -53, y: 31}
+        - {x: -53, y: -53}
+        - {x: -45, y: -67}
+        - {x: 44, y: -67}
+        - {x: 53, y: -55}
+        - {x: 53, y: 67}
+    - name: badsheet_27
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 607
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 66.5}
+        - {x: -51.5, y: -66.5}
+        - {x: 40.5, y: -66.5}
+        - {x: 51.5, y: -43.5}
+        - {x: 51.5, y: 66.5}
+    - name: badsheet_28
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 608
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 66}
+        - {x: -47, y: 48}
+        - {x: -51, y: 28}
+        - {x: -51, y: -66}
+        - {x: 51, y: -66}
+        - {x: 51, y: 66}
+    - name: badsheet_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 606
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 67}
+        - {x: -50, y: 42}
+        - {x: -50, y: -64}
+        - {x: -41, y: -67}
+        - {x: 32, y: -67}
+        - {x: 50, y: -24}
+        - {x: 50, y: 64}
+        - {x: 48, y: 67}
+    - name: badsheet_30
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 606
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 67}
+        - {x: -46, y: 67}
+        - {x: -48, y: 66}
+        - {x: -48, y: -67}
+        - {x: 6, y: -67}
+        - {x: 32, y: -37}
+        - {x: 48, y: 17}
+        - {x: 48, y: 65}
+    - name: badsheet_31
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 605
+        width: 95
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 55.5}
+        - {x: 40.5, y: 67.5}
+        - {x: -31.5, y: 67.5}
+        - {x: -47.5, y: 27.5}
+        - {x: -47.5, y: -61.5}
+        - {x: -42.5, y: -67.5}
+        - {x: -5.5, y: -67.5}
+        - {x: 8.5, y: -53.5}
+        - {x: 27.5, y: -33.5}
+        - {x: 47.5, y: 3.5}
+    - name: badsheet_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 470
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 66.5}
+        - {x: -47.5, y: 49.5}
+        - {x: -47.5, y: -66.5}
+        - {x: 5.5, y: -66.5}
+        - {x: 47.5, y: 25.5}
+        - {x: 47.5, y: 63.5}
+        - {x: 38.5, y: 66.5}
+    - name: badsheet_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 470
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.5, y: 10.5}
+        - {x: 49.5, y: 56.5}
+        - {x: 43.5, y: 66.5}
+        - {x: -22.5, y: 66.5}
+        - {x: -26.5, y: 65.5}
+        - {x: -38.5, y: 39.5}
+        - {x: -49.5, y: -1.5}
+        - {x: -49.5, y: -64.5}
+        - {x: -45.5, y: -66.5}
+        - {x: -20.5, y: -66.5}
+        - {x: -16.5, y: -62.5}
+        - {x: -8.5, y: -65.5}
+        - {x: 8.5, y: -65.5}
+    - name: badsheet_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 469
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -50}
+        - {x: 51, y: 17}
+        - {x: 51, y: 55}
+        - {x: 43, y: 67}
+        - {x: -40, y: 67}
+        - {x: -51, y: 21}
+        - {x: -51, y: -67}
+        - {x: -20, y: -67}
+        - {x: -19, y: -64}
+        - {x: -10, y: -67}
+        - {x: 2, y: -67}
+    - name: badsheet_35
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 473
+        width: 108
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 65}
+        - {x: -54, y: 34}
+        - {x: -54, y: -62}
+        - {x: -51, y: -65}
+        - {x: 36, y: -65}
+        - {x: 54, y: -27}
+        - {x: 54, y: 65}
+    - name: badsheet_36
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 477
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 63}
+        - {x: -23, y: 63}
+        - {x: -58, y: 50}
+        - {x: -58, y: -63}
+        - {x: 43, y: -63}
+        - {x: 50, y: -48}
+        - {x: 58, y: 17}
+        - {x: 58, y: 61}
+    - name: badsheet_37
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 476
+        width: 118
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 63.5}
+        - {x: -59, y: 51.5}
+        - {x: -59, y: -63.5}
+        - {x: 43, y: -63.5}
+        - {x: 59, y: -11.5}
+        - {x: 59, y: 63.5}
+    - name: badsheet_38
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 475
+        width: 110
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 64}
+        - {x: -40, y: 61}
+        - {x: -55, y: -6}
+        - {x: -55, y: -64}
+        - {x: 44, y: -64}
+        - {x: 55, y: -11}
+        - {x: 55, y: 64}
+    - name: badsheet_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 474
+        width: 102
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 64.5}
+        - {x: -51, y: -64.5}
+        - {x: 28, y: -64.5}
+        - {x: 51, y: -50.5}
+        - {x: 51, y: 64.5}
+    - name: badsheet_40
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 473
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 65}
+        - {x: -43.5, y: 41}
+        - {x: -51.5, y: 14}
+        - {x: -51.5, y: -65}
+        - {x: 34.5, y: -65}
+        - {x: 51.5, y: 1}
+        - {x: 51.5, y: 65}
+    - name: badsheet_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 336
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 65.5}
+        - {x: -52, y: 34.5}
+        - {x: -52, y: -62.5}
+        - {x: -37, y: -65.5}
+        - {x: 33, y: -65.5}
+        - {x: 52, y: -6.5}
+        - {x: 52, y: 64.5}
+        - {x: 49, y: 65.5}
+    - name: badsheet_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 335
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 66}
+        - {x: -45, y: 49}
+        - {x: -49, y: 25}
+        - {x: -49, y: -66}
+        - {x: 23, y: -66}
+        - {x: 49, y: 4}
+        - {x: 49, y: 66}
+    - name: badsheet_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 332
+        width: 94
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 67.5}
+        - {x: -47, y: 29.5}
+        - {x: -47, y: -47.5}
+        - {x: -40, y: -67.5}
+        - {x: -1, y: -67.5}
+        - {x: 43, y: -34.5}
+        - {x: 47, y: -11.5}
+        - {x: 47, y: 67.5}
+    - name: badsheet_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 332
+        width: 98
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 67.5}
+        - {x: -49, y: 26.5}
+        - {x: -49, y: -67.5}
+        - {x: 5, y: -67.5}
+        - {x: 49, y: -42.5}
+        - {x: 49, y: 60.5}
+        - {x: 38, y: 67.5}
+    - name: badsheet_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 332
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 67.5}
+        - {x: -25, y: 67.5}
+        - {x: -52, y: 32.5}
+        - {x: -52, y: -56.5}
+        - {x: -47, y: -67.5}
+        - {x: -1, y: -67.5}
+        - {x: 51, y: -28.5}
+        - {x: 52, y: -24.5}
+        - {x: 52, y: 58.5}
+    - name: badsheet_46
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 332
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 67.5}
+        - {x: -53, y: 26.5}
+        - {x: -53, y: -46.5}
+        - {x: -47, y: -67.5}
+        - {x: 9, y: -67.5}
+        - {x: 53, y: -33.5}
+        - {x: 53, y: 55.5}
+        - {x: 36, y: 67.5}
+    - name: badsheet_47
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 332
+        width: 109
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 67.5}
+        - {x: -23.5, y: 67.5}
+        - {x: -54.5, y: 23.5}
+        - {x: -54.5, y: -67.5}
+        - {x: 8.5, y: -67.5}
+        - {x: 54.5, y: -25.5}
+        - {x: 54.5, y: 63.5}
+    - name: badsheet_48
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 334
+        width: 112
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 66.5}
+        - {x: -56, y: 11.5}
+        - {x: -56, y: -56.5}
+        - {x: -45, y: -66.5}
+        - {x: 54, y: -66.5}
+        - {x: 56, y: -58.5}
+        - {x: 56, y: 63.5}
+        - {x: 50, y: 66.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
